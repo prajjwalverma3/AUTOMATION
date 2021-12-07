@@ -5,6 +5,9 @@ THIS is an Automation Project with full AUTOMATION with LCD display(custom chara
 With built-in Digital Thermometer💥.
 
 Note : - 1) as well as there is Signal Indicator which indicates that our IR sensor is catching signal or not 💫
+it generate's green light when their is anything is getiing power otherwise when their is off signal it generates red light 
+
+lcd is also attached which tell us the status of the system with temperature 
 
 2) POWER is used to completely ON and OFF the system😃
 
