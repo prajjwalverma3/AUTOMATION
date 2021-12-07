@@ -1,4 +1,5 @@
 # AUTOMATION
+![image](https://user-images.githubusercontent.com/82315894/145078425-2ba99050-a6a6-4fb7-a4a6-5cd9af04a4f3.png)
 
 THIS is an Automation Project with full AUTOMATION with LCD display(custom characters)
 
